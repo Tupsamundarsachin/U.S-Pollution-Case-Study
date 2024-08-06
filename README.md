@@ -15,9 +15,9 @@ To tackle these questions, the following approach was taken:
 1. Data Collection: Collected data on pollution levels for CO, O3, SO2, and NO2 across various states in the U.S. Also, gathered data on population distribution for quarterly analysis.
 2. Data Cleaning: Processed and cleaned the collected data to ensure accuracy and consistency, handling any missing or erroneous values.
 3. Dashboard Creation: Developed a Power BI dashboard to visualize the data:
-    a) Pollution Levels: Created visualizations for the levels of CO, O3, SO2, and NO2 in each state. This helps in understanding the concentration and distribution of these pollutants.
-    b) Quarterly Population Distribution: Provided a breakdown of the population by quarter, allowing for an analysis of how pollution levels correlate with population changes throughout the year.
-    c) Geographical Analysis: Included maps and charts to display the geographic distribution of pollution levels, highlighting areas with the highest and lowest pollution levels.
+a) Pollution Levels: Created visualizations for the levels of CO, O3, SO2, and NO2 in each state. This helps in understanding the concentration and distribution of these pollutants.
+b) Quarterly Population Distribution: Provided a breakdown of the population by quarter, allowing for an analysis of how pollution levels correlate with population changes throughout the year.
+c) Geographical Analysis: Included maps and charts to display the geographic distribution of pollution levels, highlighting areas with the highest and lowest pollution levels.
 
 4. Analysis and Insights: Analyzed the visualizations to draw insights on pollution trends, identify high-risk areas, and assess the potential impact on public health. This analysis helps in understanding regional disparities and guiding policy decisions.
 
