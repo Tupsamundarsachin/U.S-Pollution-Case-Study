@@ -2,7 +2,7 @@
 This project focuses on analyzing pollution levels across the United States and their impact on daily life. A Power BI dashboard was created to visualize and understand pollution metrics, including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), and nitrogen dioxide (NO2) levels. Additionally, the dashboard provides insights into population distribution on a quarterly basis.
 
 
-PROBLEM ATATEMENT:
+PROBLEM STATEMENT:
 This project aims to address the following questions and also Understanding the distribution and concentration of various pollutants is crucial for identifying problem areas, assessing public health risks, and implementing effective policies and measures.
 1. What are the levels of carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), and nitrogen dioxide (NO2) in each state of the U.S.?
 2. How do these pollution levels vary geographically and temporally?
