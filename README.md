@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/57f23172-ac20-46b3-bb77-a88fc7a66ec7
 # U.S-Pollution-Case-Study
 This project focuses on analyzing pollution levels across the United States and their impact on daily life. A Power BI dashboard was created to visualize and understand pollution metrics, including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), and nitrogen dioxide (NO2) levels. Additionally, the dashboard provides insights into population distribution on a quarterly basis.
 
@@ -20,6 +22,12 @@ b) Quarterly Population Distribution: Provided a breakdown of the population by 
 c) Geographical Analysis: Included maps and charts to display the geographic distribution of pollution levels, highlighting areas with the highest and lowest pollution levels.
 
 4. Analysis and Insights: Analyzed the visualizations to draw insights on pollution trends, identify high-risk areas, and assess the potential impact on public health. This analysis helps in understanding regional disparities and guiding policy decisions.
+
+
+
+https://github.com/user-attachments/assets/86116ed4-d572-4817-80da-52d292d7df4a
+
+
 
 CONCLUSION:
 The U.S. Pollution Analysis Dashboard offers a comprehensive view of pollution levels across the country, providing valuable insights into how different pollutants vary by state and over time. By visualizing key metrics and trends, the dashboard helps stakeholders and policymakers make informed decisions to address pollution issues and improve public health. The inclusion of quarterly population data further enriches the analysis, allowing for a deeper understanding of how pollution impacts different demographic segments throughout the year.
