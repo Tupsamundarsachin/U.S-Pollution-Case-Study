@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/57f23172-ac20-46b3-bb77-a88fc7a66ec7
 # U.S-Pollution-Case-Study
 This project focuses on analyzing pollution levels across the United States and their impact on daily life. A Power BI dashboard was created to visualize and understand pollution metrics, including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), and nitrogen dioxide (NO2) levels. Additionally, the dashboard provides insights into population distribution on a quarterly basis.
 
